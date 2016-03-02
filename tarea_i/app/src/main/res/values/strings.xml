@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarea1: Laurenth, Kevin, Jonathan</string>
+    <string name="btnSegundaActi">Siguiente</string>
+    <string name="SegundaActivity">Segunda Activity</string>
+    <string name="fragmentA">Fragment A</string>
+    <string name="fragmentB">Fragment B</string>
+    <string name="tapRojo">Tap al cuadro blanco para ir webview</string>
+</resources>
